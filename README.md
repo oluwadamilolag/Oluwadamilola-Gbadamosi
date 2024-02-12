@@ -14,18 +14,18 @@ My journey in computer science has led me to develop a passion for cybersecurity
 [Provide skills and associated project. Make sure to hyperlink the project]
 
 |                                                     | Associated Project                            |
-|-----------------------------------------------------|-----------------------------------------------|
-| SIEM Implementation and Log Analysis                | <a href="google.com">Detection Lab</a>        |
-| Network Traffic Monitoring and Attack Detection     | <a href="google.com">Detection Lab</a>        |
-| Security Automation with Shuffle SOAR               | <a href="google.com">Detection Lab</a>        |
-| Incident Response Planning and Execution            | <a href="google.com">Detection Lab</a>        |
-| Case Management with TheHive                        | <a href="google.com">Detection Lab</a>        |
-| Scripting and Automation for Threat Mitigation      | <a href="google.com">SOC Automation Lab</a>   |
-| Scripting and Automation for Threat Mitigation      | <a href="google.com">SOC Automation Lab</a>   |
-| Scripting and Automation for Threat Mitigation      | <a href="google.com">SOC Automation Lab</a>   |
-| Scripting and Automation for Threat Mitigation      | <a href="google.com">SOC Automation Lab</a>   |
-| Scripting and Automation for Threat Mitigation      | <a href="google.com">SOC Automation Lab</a>   |
-| Scripting and Automation for Threat Mitigation      | <a href="google.com">SOC Automation Lab</a>   |
+|-----------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| SIEM Implementation and Log Analysis                | <a href="https://github.com/oluwadamilolag/Detection-Lab/blob/main/README.md"> Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection     | <a href="google.com">Detection Lab</a>                                                          |
+| Security Automation with Shuffle SOAR               | <a href="google.com">Detection Lab</a>                                                          |
+| Incident Response Planning and Execution            | <a href="google.com">Detection Lab</a>                                                          |
+| Case Management with TheHive                        | <a href="google.com">Detection Lab</a>                                                          |
+| Scripting and Automation for Threat Mitigation      | <a href="google.com">SOC Automation Lab</a>                                                     |
+| Scripting and Automation for Threat Mitigation      | <a href="google.com">SOC Automation Lab</a>                                                     | 
+| Scripting and Automation for Threat Mitigation      | <a href="google.com">SOC Automation Lab</a>                                                     |
+| Scripting and Automation for Threat Mitigation      | <a href="google.com">SOC Automation Lab</a>                                                     |
+| Scripting and Automation for Threat Mitigation      | <a href="google.com">SOC Automation Lab</a>                                                     |
+| Scripting and Automation for Threat Mitigation      | <a href="google.com">SOC Automation Lab</a>                                                     |
 
 
 ## Tools
@@ -87,5 +87,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
- - Detection Lab
+ - <a href="https://github.com/oluwadamilolag/Detection-Lab/blob/main/README.md"> Detection Lab</a>
  - SOC Automation Project
