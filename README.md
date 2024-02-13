@@ -89,4 +89,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
  - <a href="https://github.com/oluwadamilolag/Detection-Lab/blob/main/README.md"> Detection Lab</a>
  - <a href="https://github.com/oluwadamilolag/SOC-Analyst" />SOC Analyst</a>
+ - <a href="https://github.com/oluwadamilolag/Certified-Cyber-Security-Analyst/blob/main/README.md#certified-cyber-security-analyst" />Certified Security Analyst</a>
  - SOC Automation Project
