@@ -6,13 +6,9 @@
 
 
 ## Objective
-[Provide Objective]
-
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project]
-
 |                                                     | Associated Project                            |
 |-----------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | SIEM Implementation and Log Analysis                | <a href="https://github.com/oluwadamilolag/Detection-Lab/blob/main/README.md"> Detection Lab</a>|
@@ -29,7 +25,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Tools
-[Provide Tools and break them down into categories. Use ChatGPT to help create the link]
 
 ### Network
 <div>
@@ -74,7 +69,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certification that you have obtianed. Use ChatGPT to help create the link]
 <div>
     <a href="https://www.comptia.org/certifications/network"><img src="https://img.shields.io/badge/-CompTIA%20Network%2B-00AEEF?style=for-the-badge&logo=comptia&logoColor=white" /></a>
     <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/cyber-ops.html"><img src="https://img.shields.io/badge/-Cisco%20CyberOps-1DA1F2?style=for-the-badge&logo=cisco&logoColor=white" /></a>
